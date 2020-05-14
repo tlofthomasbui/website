@@ -2,6 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import About from "./pages/about"
+import Contact from "./pages/contact"
+import Cover from "./pages/cover"
+import Gallery from "./pages/gallery"
+
 function App() {
   return (
     <div className="App">
